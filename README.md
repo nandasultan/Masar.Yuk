@@ -2,7 +2,7 @@
 
 **Masar.Yuk** is a marketplace website for selling basic necessities such as fish, chicken, and meat online. This project was created as a major assignment for the Web Application Development course with the goal of making it easier to buy essential goods without leaving home. 
 
-Demo site " https://nandasultan.great-site.net/ "
+Demo of this website " https://nandasultan.great-site.net/ "
 
 ---
 
